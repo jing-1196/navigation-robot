@@ -83,3 +83,5 @@ ros2 launch autopatrol_robot autopatrol.launch.py
 ![alt text](image.png)
 机器人拍照彩色图像信息：
 ![alt text](image-1.png)
+接入二驱差速机器人：
+![alt text](111.jpg)
