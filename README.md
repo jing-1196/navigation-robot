@@ -81,6 +81,8 @@ ros2 launch autopatrol_robot autopatrol.launch.py
 ## 3.成果展示
 地图与机器人建模：
 ![alt text](image.png)
+建图与导航：
+![alt text](a.jpg)
 机器人拍照彩色图像信息：
 ![alt text](image-1.png)
 接入二驱差速机器人：
